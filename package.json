@@ -1,0 +1,39 @@
+{
+  "name": "jsonframe-cheerio2",
+  "version": "1.0.0",
+  "description": "declarative html parser base on the jsonframe-cheerio",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/**/*.test.js",
+    "test-watch": "nodemon --exec \"npm run test\""
+  },
+  "author": {
+    "name": "Marvin Wu",
+    "email": "marvinwuhk@gmail.com"
+  },
+  "keywords": [
+    "cheerio",
+    "scraper",
+    "frame",
+    "json",
+    "parser",
+    "template"
+  ],
+  "devDependencies": {
+    "cheerio": "^0.22.0",
+    "expect": "^1.20.2",
+    "lodash": "^4.17.4",
+    "mocha": "^3.2.0",
+    "nodemon": "^1.11.0",
+    "unfluff": "^1.1.0",
+    "xmldom": "^0.1.27",
+    "xpath": "0.0.23"
+  },
+  "dependencies": {
+    "addressit": "^1.4.0",
+    "chrono-node": "^1.2.5",
+    "google-libphonenumber": "^2.0.9",
+    "humanname": "^0.2.2",
+    "lodash": "^4.17.4"
+  }
+}

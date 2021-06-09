@@ -1,0 +1,25 @@
+'.fusion-layout-column.fusion_builder_column.fusion-builder-column-1.fusion_builder_column_1_2 .fusion-text-1': 
+  title: h1
+  description: 
+      - p
+'.fusion-layout-column.fusion_builder_column.fusion-builder-column-1.fusion_builder_column_1_2 .fusion-checklist-1': 
+  quick_look:
+    _s: li
+    _d: 
+      - title: i @ class
+        content: 
+          - p
+'.project-content .fusion-builder-row-3 .fusion-text.fusion-text-6':
+  general_care_title: h3
+  general_care_description: 
+        - h3 ~ p ! h5
+  care_2: h5:nth-last-of-type(2)
+  care_2_description: 
+        - h5:nth-last-of-type(2) ~ p ! h5
+  care_1: h5:nth-last-of-type(1)
+  care_1_description: 
+        - h5:nth-last-of-type(1) ~ p ! h5,h3
+  pair_well_title: h3:last-of-type
+  pair_well_description: 
+        - h3:last-of-type ~ p 
+

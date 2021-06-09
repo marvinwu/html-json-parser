@@ -1,0 +1,7 @@
+'.fusion-layout-column.fusion_builder_column.fusion-builder-column-1.fusion_builder_column_1_2 .fusion-checklist-1': 
+  quick_look:
+    _split_by: h2,h3,h4
+    _d: 
+      - title: i @ class
+        content: 
+          - p
