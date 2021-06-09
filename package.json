@@ -11,6 +11,7 @@
     "name": "Marvin Wu",
     "email": "marvinwuhk@gmail.com"
   },
+  "repository": "marvinwu/jsonframe2",
   "keywords": [
     "cheerio",
     "scraper",
